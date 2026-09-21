@@ -14,24 +14,7 @@
         <p align ="center">✧₊⁺&nbsp;&nbsp;&nbsp;Passionate about solving problems that matter and always looking for new challenges.</p>
         <p>✧₊⁺&nbsp;&nbsp;&nbsp;Excited to participate in interesting projects and continuously improve my skills.<br><br><br></p>
     </div>
-    <h1>GITHUB STATS</h1>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheghine&layout=compact&hide=Makefile,Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua&size_weight=0.5&count_weight=0.5&theme=material-palenight" style="width: 400px; height: 200px;" />
-    </a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hheghine&theme=material-palenight&hide_border=false" style="width: 400px; height: 200px;" />
-</div>
-
-<div align="center">
-
-<img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419" width="25%" />
-
----
-  
-  [![Visits Badge](https://badges.strrl.dev/visits/hheghine/hheghine?style=for-the-badge&color=6E40F3)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/hheghine?style=for-the-badge&color=6E40F3)](https://github.com/hheghine?tab=repositories)
-  [![Commits Badge](https://badges.strrl.dev/commits/weekly/hheghine?style=for-the-badge&color=6E40F3)](https://github.com/hheghine?tab=repositories)
-
-</div>
+    
 
 
 <!--
